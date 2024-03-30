@@ -1,0 +1,33 @@
+body {
+    background-color: #B088FF;
+    background:url(imagenes/SIMBOLOPERSONAL.jpg);
+    background-attachment: fixed ;
+    font-size: 25px;
+    font-family: "Cedarville Cursive", cursive;
+        font-weight: 400;
+        font-style: normal;
+    width: 90%;
+    margin: 50px;
+    }
+
+h1 {
+    font-size: 50px;
+}
+
+a {
+    color: blue;
+}
+
+img {
+    border: 5px solid #000;
+    margin: 10px;
+}
+
+table {
+    border: 2px solid #000;
+}
+
+table td {
+    border: 2px solid #000;
+    padding: 10px;
+}
