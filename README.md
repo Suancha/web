@@ -1,2 +1,0 @@
-# web
-ProyectoDuvanSuancha1101
